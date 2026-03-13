@@ -1,0 +1,7 @@
+nyc-schools-analysis
+│
+├── incident_analysis
+├── school_directory_exploration
+├── database_queries
+├── database_population
+└── assets
